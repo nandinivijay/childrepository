@@ -1,0 +1,3 @@
+[submodule "Parent-Repositiry"]
+	path = Parent-Repositiry
+	url = https://github.com/nandinivijay/Parent-Repositiry.git
